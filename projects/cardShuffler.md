@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cardShufflerLogo.jpg
 title: "Card Shuffler"
 date: 2021
 published: true
