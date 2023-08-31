@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/shirtDesignLogo
 title: "Summer Fun T-shirt Design"
 date: 2022
 published: true
@@ -19,25 +19,25 @@ As a child, I used to attend a program in Hawaii called Summer Fun, which is a c
 Luckily, the program gave me a free range of how the shirt looked, so I came up with multiple ideas and let them choose the graphic that they preferred. I first started my process by coming up with words that reminded me of summer, to match the right connotations of the shirt: waves, summer, beach, camping, sun, etc. With these ideas, I played with different fonts and vectors until I came up with my first drafts below:
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Page1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Page2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Page3.png" class="img-thumbnail" >
 </div>
 
 After these initial rough ideas, I created a 2nd draft by separating the designs into coherent themes:
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Theme1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Theme2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Theme3.png" class="img-thumbnail" >
 </div>
 
 After proposing these ideas, they really liked the last design with the flowy font, which I also agreed was one of my favorites. They ended up going with this final design, with the sun as a chest design.
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/Final.png" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/ShirtFront.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/tshirtDesign/ShirtBack.jpg" class="img-thumbnail" >
 </div>
 
 Creating my first ever graphic design that would be showcased and used in public was a very enriching experience, that was also very fun. I am excited to incorporate my graphic design into my software engineering, maybe through web design.
