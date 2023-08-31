@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vendingMachineLogo.jpg
+image: img/vendingMachineLogo.png
 title: "Virtual Vending Machine"
 date: 2021
 published: true
