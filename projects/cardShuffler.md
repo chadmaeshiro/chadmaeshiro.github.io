@@ -18,7 +18,7 @@ As a project for my ICS 212 class, I designed a C++ program that utilized my kno
 An issue that I ran into while creating this program was the inclusion of srand in my program. Srand was a function in C++ that generated a random number, which was the main function for creating a random order for the cards. What was unique about this function was its usage of a seed value. It required a directive from time.h and stdlib.h, which took the current time and date as a runtime value for the random number it generated. Getting used to understanding how srand worked and how it created a random number was a challenge for me. But overall, I am proud of how the program runs, and I felt that I wrote the code in an efficient manner.
 
 
-Here is a snippet of code where I created the structure of the card, and initialized the deck of cards
+Here is a snippet of code where I created the structure of the card, and initialized the deck of cards:
 
 ```cpp
 
