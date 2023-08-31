@@ -42,5 +42,3 @@ After proposing these ideas, they really liked the last design with the flowy fo
 
 Creating my first ever graphic design that would be showcased and used in public was a very enriching experience, that was also very fun. I am excited to incorporate my graphic design into my software engineering, maybe through web design.
 
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
