@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/shirtDesignLogo
-title: "Summer Fun T-shirt Design"
+image: img/shirtDesignLogo.png
+title: "Summer Fun T-Shirt Design"
 date: 2022
 published: true
 labels:
