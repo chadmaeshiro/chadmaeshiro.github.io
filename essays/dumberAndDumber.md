@@ -32,9 +32,9 @@ This question received 5 downvotes, with only one response to their post. Additi
 Another issue with this user’s post is that rather than posting the actual code and error into the forum, they sent a screenshot of the error that occurred. Raymond mentions how screenshots make it difficult to easily access the person's code without having to type out the code themselves. This totally makes sense, because how are you expected to fix the code, if you aren’t given the ability to run it? That was another mistake that this person made while uploading their question.
 
 
-<div class="text-center p-9">
+
 <img width="1000px" class="rounded float-start pe-4" src="../img/BadExample.jpg">
-</div>
+
 
 
 Lastly, this person didn’t give a detailed explanation of what they did, or what they attempted to do to solve the problem on their own. Raymond in his web article suggests mentioning how you looked on Google for an answer already, listing the other methods you tried to do (uninstalling and redownloading VS, checking the Python extension, etc.) before forcing someone else to solve your problem. This user only mentions that he had installed the Python extension, but has no idea what the problem is, seems like they themselves put little effort into solving the problem. Now let's take a look at a question that sets itself up properly.
