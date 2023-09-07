@@ -10,9 +10,6 @@ labels:
   - Answers
   - StackOverflow
 ---
-<div class="text-center p-4">
-<img width="300px" class="rounded float-start pe-4" src="../img/BadExample.jpg">
-</div>
 
 Just like accidentally leaving a light on, or forgetting to check if there is someone behind you while opening a door, there are small things that we can mindlessly forget to check or do. But imagine after lending a pencil to someone in class, forgets to mention that they will need it for the whole day. Or when someone asks you to buy them food, they never mention what type of food they really want and get mad after you can’t read their mind. When these senseless mishaps occur while asking for help, this is infuriating for the person offering their time to you. I realized how important it is to not ask “dumb questions” after looking through Eric Steven Raymond’s online article ‘How To Ask Questions The Smart Way.’  Raymond brings up how small but frustrating things people do when asking questions to hackers on online programming forums. Raymond explains how we, as users asking for help, can stop asking "dumb questions."
 
@@ -33,6 +30,10 @@ This question received 5 downvotes, with only one response to their post. Additi
  First of all, the user provides a very unclear title to their question: Visual Studio code. What about visual studio code is wrong? Although they mention their issue in the body, at first glance, people wouldn’t understand the issue they are facing. So, they should instead title their question as “Visual Studio Code ‘No such file’ Error” or as Raymond’s suggested format: “Running Python using Visual Studio Code - No such file error.” This clear and concise subject header would let others clearly understand what they would need help with.
 	
 Another issue with this user’s post is that rather than posting the actual code and error into the forum, they sent a screenshot of the error that occurred. Raymond mentions how screenshots make it difficult to easily access the person's code without having to type out the code themselves. This totally makes sense, because how are you expected to fix the code, if you aren’t given the ability to run it? That was another mistake that this person made while uploading their question.
+
+<div class="text-center p-4">
+<img width="1000px" class="rounded float-start pe-4" src="../img/BadExample.jpg">
+</div>
 
 Lastly, this person didn’t give a detailed explanation of what they did, or what they attempted to do to solve the problem on their own. Raymond in his web article suggests mentioning how you looked on Google for an answer already, listing the other methods you tried to do (uninstalling and redownloading VS, checking the Python extension, etc.) before forcing someone else to solve your problem. This user only mentions that he had installed the Python extension, but has no idea what the problem is, seems like they themselves put little effort into solving the problem. Now let's take a look at a question that sets itself up properly.
 
