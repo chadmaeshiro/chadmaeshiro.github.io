@@ -32,7 +32,7 @@ This question received 5 downvotes, with only one response to their post. Additi
 Another issue with this user’s post is that rather than posting the actual code and error into the forum, they sent a screenshot of the error that occurred. Raymond mentions how screenshots make it difficult to easily access the person's code without having to type out the code themselves. This totally makes sense, because how are you expected to fix the code, if you aren’t given the ability to run it? That was another mistake that this person made while uploading their question.
 
 
-<div class="text-center p-4">
+<div class="text-center p-9">
 <img width="1000px" class="rounded float-start pe-4" src="../img/BadExample.jpg">
 </div>
 
