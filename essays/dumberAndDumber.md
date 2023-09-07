@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/BadExample.jpg">
 
 Just like accidentally leaving a light on, or forgetting to check if there is someone behind you while opening a door, there are small things that we can mindlessly forget to check or do. But imagine after lending a pencil to someone in class, forgets to mention that they will need it for the whole day. Or when someone asks you to buy them food, they never mention what type of food they really want and get mad after you can’t read their mind. When these senseless mishaps occur while asking for help, this is infuriating for the person offering their time to you. I realized how important it is to not ask “dumb questions” after looking through Eric Steven Raymond’s online article ‘How To Ask Questions The Smart Way.’  Raymond brings up how small but frustrating things people do when asking questions to hackers on online programming forums. Raymond explains how we, as users asking for help, can stop asking "dumb questions."
 
