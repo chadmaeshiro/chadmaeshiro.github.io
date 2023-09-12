@@ -13,7 +13,7 @@ labels:
 
 
 ## Past
-I vaguely remember sitting silently in my room when I was in preschool, conflicted with the question my teacher had asked me that morning: “What do you want to be when you grow up?” There in front of my desk is a worksheet with a blank on ‘my future job.’ How absurd was it for us to know what we would like to do for the rest of our lives in preschool, right? So I indecisively put “firefighter” just to get the troubling thought out of my head.
+I vaguely edited right here remember sitting silently in my room when I was in preschool, conflicted with the question my teacher had asked me that morning: “What do you want to be when you grow up?” There in front of my desk is a worksheet with a blank on ‘my future job.’ How absurd was it for us to know what we would like to do for the rest of our lives in preschool, right? So I indecisively put “firefighter” just to get the troubling thought out of my head.
 
 My future has always been unknown to me, and I had always felt like I was behind compared to everyone else's life agenda. People in elementary already planning for what college to go to, and what route to take, while I felt that something was ahead of what I needed to know. But reaching high school, I realized it was about time I just started, anywhere, on what I wanted to do with my life. This thought tumbled into my signing up for AP Computer Science my senior year. 
 
