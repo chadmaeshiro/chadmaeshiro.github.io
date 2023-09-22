@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Coding Standards, Capiche?"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-21
+published: true
+labels:
+  - Syntax
+  - Reflection
+  - Coding Standards
+---
+
 Y0uC@N probab!y r3ad th!sS3nt3nc3,but!tMight be a!ot h@rderth@nusua!.
 
 In one quick sentence, I just described the importance of having a coding standard.
