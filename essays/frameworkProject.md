@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Dumb & Dumber"
+title: "You Can't Build a House Without a Blueprint"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
