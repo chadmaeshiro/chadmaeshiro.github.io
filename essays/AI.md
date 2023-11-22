@@ -19,7 +19,7 @@ Once a science fiction storyline, AI has grown to become a major industry that i
 So far throughout the semester, I have sometimes applied or chosen not to apply AI in multiple areas of study and coursework. I have learned that the application of AI can vary from usage to usage, and I will explain in this section how AI is used differently in different forms of study and learning.
 
 1. Experience WODs
-I have used A.I. for some components of my learning in my Software Engineering class this semester. In this class, we complete these assignments called ‘WODs (Workout of the Day)’ which are small fragmented coding assignments that we do in class, for homework, or as coding practice. For the homework assignments, I rarely used A.I./Chat GPT to complete them because, within the modules that the professor gave us, there were resources and videos that helped us understand how to complete those WODs. I would sometimes use Chat GPT to look up information about certain aspects of the practice WODs that I had a hard time understanding, making it much easier for me to complete them the second time around. For example, I once used ChatGPT to explain the className attribute for React Bootstrap, making it easier to work with when completing the next WOD.
+* I have used A.I. for some components of my learning in my Software Engineering class this semester. In this class, we complete these assignments called ‘WODs (Workout of the Day)’ which are small fragmented coding assignments that we do in class, for homework, or as coding practice. For the homework assignments, I rarely used A.I./Chat GPT to complete them because, within the modules that the professor gave us, there were resources and videos that helped us understand how to complete those WODs. I would sometimes use Chat GPT to look up information about certain aspects of the practice WODs that I had a hard time understanding, making it much easier for me to complete them the second time around. For example, I once used ChatGPT to explain the className attribute for React Bootstrap, making it easier to work with when completing the next WOD.
 
 2. In-class Practice WODs
 The In-class Practice WODs, were mainly for us to get an understanding of how the weekly WOD would be conducted. So as a practice assignment, I found rarely a need to use A.I. in these scenarios.
@@ -49,8 +49,9 @@ As stated in previous sections, after understanding a concept with the aid of Ch
 Using AI to write code has many weaknesses, which influences me to not use the code that ChatGPT produces. In order for AI to produce workable code, you have to make sure you give clear, detailed instructions. If not, you get code that won’t always work the way it intended to. For example, if you want to create a Form, you have to be sure that you explain what language you want to use, what framework to implement, the aesthetics of it, etc. Without these minor details, you don’t get the result you were hoping for. Luckily, this forces us to do the work ourselves when we fall into asking AI to do it for us.
 
 11. Documenting code
-There was rarely a use case where I needed AI to document code for me. 
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+There was rarely a use case where I needed AI to document code for me.
+ 
+12. Quality assurance
 I never used ChatGPT to fix my code for me because it feels like cheating your way out of learning. If I am desperately in need of an answer, I consult Stack Overflow for answers. For ESLint errors within my code, IntelliJ itself handles the issues really well by providing options to fix the ESLint errors directly on the code editor. This convenience prevents me from using outside technology such as ChatGPT to fix ESLint errors.
 
 ##Impact on Learning and Understanding
