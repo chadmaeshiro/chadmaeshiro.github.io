@@ -11,7 +11,7 @@ labels:
   - Chat GPT
 ---
 
-<img class="img-fluid" src="../img/frameworkProject/goodNavbar.png">
+<img class="img-fluid" src="../img/AI.png">
 
 ## Introduction
 Once a science fiction storyline, AI has grown to become a major industry that is expanding into a phenomenon that made its way to the general public. This expansion of AI could improve our ability to learn, but when used incorrectly, could also plague us with bad habits of getting the answers we ask for. I will explore through the usage of AI as a computer science major, the growth of AI and the advancements and limitations that it provides. 
