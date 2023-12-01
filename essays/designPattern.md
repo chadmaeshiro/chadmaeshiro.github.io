@@ -13,13 +13,13 @@ labels:
 
 Imagine you're a composer creating awesome music, but for computers! That's what making software is like, and design patterns are like your favorite music tricks to make everything sound just right.
 
-##What Are Design Patterns?
+## What Are Design Patterns?
 
-So, what are these design patterns? Think of them as cool moves that other smart music composers found out to solve common problems. You know when you're playing your guitar, and you use a sweet chord progression you learned from a song? That's a bit like using a design pattern in coding.
+So, what are these design patterns? Think of them as cool moves that other smart music composers found out to solve common problems. You know when you're playing your guitar, and you use a sweet chord progression you learned from a song? That's a bit like using a design pattern in coding. In my Software Programming class this semester, I had to deal with modifying, evaluating, and creating complex structures of code. This can get awfully complicated for a programmer, so it is good to have a organized way of methodizing your understanding of the code you create. With that in mind, design patterns are particularly useful when it comes to crafting code that performs well and is understandable by your peers.
 
 Design patterns help us make organized, easy-to-understand code. They're like the special notes that make a song catchy. Instead of figuring out everything from scratch, we use these patterns to make our code sound good and work well.
 
-##How I Used Them in My Code
+## How I Used Them in My Code
 
 Alright, let me share a story about my coding adventures! Picture a band playing together, each member doing their thing. That's like a computer program where different parts need to work together. I used something called the Observer pattern, which is like having a band leader (or conductor) who tells everyone when to play.
 
@@ -29,7 +29,7 @@ In another coding adventure, I felt like a musician who can switch between playi
 
 In my program, I could easily switch between different ways of doing things without messing up the whole song. It's like being a musical chameleon, adapting to what the program needs at any given time.
 
-##The Grand Finale: Making Code Look and Sound Awesome
+## The Grand Finale: Making Code Look and Sound Awesome
 
 Now, let's imagine the final act of our music show. The Composite pattern is like building a song from simple notes and combining them to make a powerful melody. It's a bit like creating a big music piece from smaller, easy-to-handle parts.
 
