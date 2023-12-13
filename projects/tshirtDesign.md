@@ -9,7 +9,7 @@ labels:
   - Graphic Design
   - Creativity
   - Art
-summary: "I created a t-shirt design for the city & county Summer Fun program"
+summary: "I created a t-shirt design for the City & County Summer Fun program"
 ---
 
 Besides software engineering, I have an interest in and passion for graphic design. It started when I would watch graphic designers on YouTube analyze company logos, describing how the form and color of the logos impact its connotation. I always had an interest in art as a kid, so logo design has naturally become an interest in mine as well. 
