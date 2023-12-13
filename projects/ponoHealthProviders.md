@@ -41,8 +41,8 @@ If interested, please check out our GitHub project page for more detailed inform
 
 <div class="text-center p-4">
   <img width="400px" src="../img/PHPimages/LandingPage.jpeg" class="img-thumbnail" >
+    <img width="400px" src="../img/PHPimages/FAQPage.jpeg" class="img-thumbnail" >
    <img width="400px" src="../img/PHPimages/FilterPage.jpeg" class="img-thumbnail" >
   <img width="400px" src="../img/PHPimages/ResourcesPage.jpeg" class="img-thumbnail" >
-  <img width="400px" src="../img/PHPimages/FAQPage.jpeg" class="img-thumbnail" >
 </div>
 
