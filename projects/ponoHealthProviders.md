@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/shirtDesignLogo.png
+image: img/PHPimages/PHPThumbnail.png
 title: "PonoHealth Providers"
 date: 2023
 published: true
@@ -12,6 +12,8 @@ labels:
   - Application & CSS
 summary: "I collaborated with my team to develop a website that filters and aggregates local healthcare provider information"
 ---
+
+<img class="img-fluid" src="../img/PHPimages/HeaderImage.jpeg">
 
 ## PonoHealth Providers
 
@@ -38,6 +40,7 @@ Throughout this process, I felt that I was able to apply all the information tha
 If interested, please check out our GitHub project page for more detailed information about our project! 
 [PonoHealth Providers Github Page](https://team-jackfruit.github.io/PonoHealthProviders/)
 
+Here are the final pages that we created of our finished product!
 
 <div class="text-center p-4">
   <img width="400px" src="../img/PHPimages/LandingPage.jpeg" class="img-thumbnail" >
