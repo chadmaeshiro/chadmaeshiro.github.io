@@ -10,6 +10,7 @@ labels:
   - Autobiography
   - Software Programming
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Introduction
 
@@ -21,9 +22,12 @@ A foundational idea we explored in our Software Engineering class was the idea o
 
 Here is an example of some code using underscore that displayed a list of campus degrees using minimal code:
 
+```
 function listCampusDegrees(data){
 	let object = _.groupBy(data, "CAMPUS");
   return _.mapObject(object, totalDegrees);
+```
+
 ## Coding Standards
 
 My professor in my Software Engineering class preaches the importance of having a good coding standard for all of our code, and I agree. Before someone can understand what our code does, without a good coding standard, the person needs to overcome the additional obstacle of deciphering the format of our code. By implementing a coding standard, we craft a convention for coding that enables us (and others reading our code) to have a clear understanding of the code we create. In our software engineering course, we navigated through a module that centered around establishing a consistent coding standard. While the initial setup for the coding standard felt a bit tedious it paid off when I realized how nice it is to have robust and cleanly formatted code. Node.js and ESlint were the tools of choice for implementing this formatting within our integrated development environment (IDE). Dealing with ESlint did induce some initial stress since it was very different from a format for coding that I was familiar with. When first using it, I remember seeing a screen of red errors, which were not errors in the code, but just errors in the way that the code was displayed. What this module helped me with in Software Engineering was learning to be consistent and making code user-friendly for other people. Computer programmers are so used to only us and the professor reading our code, but once you get into groups and work on a coding project together, you realize how useful it is to ensure that others can understand the code that you produced. This overall makes the coding process a lot easier since you can easily understand your own and other people's code.
@@ -31,6 +35,8 @@ My professor in my Software Engineering class preaches the importance of having 
 ##  Issue Driven Project Management
 
 On the topic of working with others, another aspect of programming that I learned of was issue-driven project management. For my Software Engineering class final project, I had to work with a team to develop an application that solves a real-world problem. This was the main project in this class that required active communication and collaboration with other classmates. What we learned as a good way to organize tasks that need to be completed for the project was utilizing the concept of issue-driven project management. Issue-driven project management is a style of management where you organize your branches in a project based on the ‘issues’ that need to be completed. An issue is a specific task or problem that occurs or needs to be implemented into your code. In our project, some sample issues were creating a filter page, fixing the user profile edit tab, or implementing an upload image feature. It can be overwhelming if you have an application that contains many flaws and features that you want to add, but by breaking it apart into issues, it is much easier to digest what exactly needs to be completed. Issues also have to capacity to be sorted by priority, so you can determine which features need to be added or what needs to be fixed first. What this module taught me was organization skills, which overall decreased the time needed to plan, allowing more action to apply and write code. GitHub organizations have a feature to create a project board that is visible to all the members of the organization. This was the mode that our group decided to apply issue-driven project management, which was great since we could see an outline of all the issues we needed to complete. What was also great about GitHub organizations is that you can create branches from each issue, and assign issues to individuals. This gave us the ability to oversee what was handling what feature or bug in the program. Here is our M2 project board for this assignment.
+
+<img width="200px" class="fluid p-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Conclusion
 
