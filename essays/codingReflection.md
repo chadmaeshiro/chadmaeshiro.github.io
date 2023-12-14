@@ -1,14 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The Brief History (& Future) of Chad Maeshiro"
+title: "Programming & It's Quirks"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-25
+date: 2023-12-13
 published: true
 labels:
   - Reflection
-  - Autobiography
   - Software Programming
+  - Functional Programming
+  - Coding Standards
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/reflection/reflection1.png">
 
