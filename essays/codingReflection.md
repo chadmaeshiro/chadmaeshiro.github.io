@@ -10,7 +10,7 @@ labels:
   - Autobiography
   - Software Programming
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/reflection/reflection1.png">
 
 ## Introduction
 
@@ -36,7 +36,7 @@ My professor in my Software Engineering class preaches the importance of having 
 
 On the topic of working with others, another aspect of programming that I learned of was issue-driven project management. For my Software Engineering class final project, I had to work with a team to develop an application that solves a real-world problem. This was the main project in this class that required active communication and collaboration with other classmates. What we learned as a good way to organize tasks that need to be completed for the project was utilizing the concept of issue-driven project management. Issue-driven project management is a style of management where you organize your branches in a project based on the ‘issues’ that need to be completed. An issue is a specific task or problem that occurs or needs to be implemented into your code. In our project, some sample issues were creating a filter page, fixing the user profile edit tab, or implementing an upload image feature. It can be overwhelming if you have an application that contains many flaws and features that you want to add, but by breaking it apart into issues, it is much easier to digest what exactly needs to be completed. Issues also have to capacity to be sorted by priority, so you can determine which features need to be added or what needs to be fixed first. What this module taught me was organization skills, which overall decreased the time needed to plan, allowing more action to apply and write code. GitHub organizations have a feature to create a project board that is visible to all the members of the organization. This was the mode that our group decided to apply issue-driven project management, which was great since we could see an outline of all the issues we needed to complete. What was also great about GitHub organizations is that you can create branches from each issue, and assign issues to individuals. This gave us the ability to oversee what was handling what feature or bug in the program. Here is our M2 project board for this assignment.
 
-<img width="200px" class="fluid p-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="400px" class="fluid p-4" src="../img/reflection/reflection2.png">
 
 ## Conclusion
 
