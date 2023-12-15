@@ -11,6 +11,8 @@ labels:
   - Programming
 ---
 
+<img class="img-fluid" src="../img/music.jpg">
+
 Software Engineering often has a common trope of being very logical and less creative and malleable. But this is often not the case, which can be seen through the usages of design patterns in Software Engineering. Like a mold used for baking, or a chord used in music, design patterns tackle a problem by modifying a simple foundation for a solution. We’ll explore in this essay how design patterns have altered the way that I thought about software engineering, and how it’s like ‘the music of design.’
 
 ## Design Patterns are Chords
