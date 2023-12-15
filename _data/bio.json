@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Chad Maeshiro",
+    "label": "Student",
+    "picture": "https://github.com/chadmaeshiro.png",
+    "email": "chadgm@hawaii.edu",
+    "phone": "808-436-3507",
+    "website": "https://chadmaeshiro.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "chadmaeshiro", "url": "http://github.com/chadmaeshiro" },
+      { "network": "linkedin", "username": "Chad Maeshiro", "url": "http://linkedin.com/in/chadmaeshiro" },
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Web Design" },
+    { "name": "Graphic Design" },
+    { "name": "Hiking" },
+    { "name": "Art" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "JavaScript", "React", "Bootstrap 5", "MongoDB", "Meteor.js"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["Windows", "Git/GitHub", "Vim/emacs"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2023-08-24",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2021",
+      "endDate": "2023",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Tango Cafe",
+      "position": "Server",
+      "website": "",
+      "startDate": "2022-08-21",
+      "endDate": "Present",
+      "summary": "Food & beverage position at cafe",
+      "highlights": [
+        "Assisted customers with questions through my knowledge of the restaurant's menu and ingredients",
+        "Developed skills in time management and organization through food and beverage standard tasks"
+      ]
+    },
+    {
+      "company": "Neiman Marcus Mariposa",
+      "position": "Server Assistant",
+      "website": "",
+      "startDate": "2021-08-05",
+      "endDate": "Present",
+      "summary": "Server assistant at an upscale restaurant",
+      "highlights": [
+        "Assisted servers with daily tasks such as refilling waters, presenting food, and sanitizing stations for guests",
+        "Managed incoming food orders while ensuring food was delivered with the proper presentation to guests"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

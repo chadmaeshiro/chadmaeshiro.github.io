@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Card Shuffler | Chad Maeshiro | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/chadmaeshiro.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Chad Maeshiro | Professional Portfolio">
+    <meta property="og:url" content="https://chadmaeshiro.github.io/projects/cardShuffler.html">
+    <meta property="og:title" content="Card Shuffler | Chad Maeshiro | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/chadmaeshiro.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Card Shuffler | Chad Maeshiro | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Chad Maeshiro</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Card Shuffler</h1>
+ <p>As a project for my ICS 212 class, I designed a C++ program that utilized my knowledge of structures and classes that simulated the shuffling of a deck of cards. Some things that I used in this program were macros, and directives that linked to other files and functions outside of my program. As a general description, what my code did to achieve this simulation was create a card structure, that contained information such as rank, suit, and color of each card. With that structure, I used 1 and 2-dimensional arrays of strings that were used to assign the cards to their respective information. You can see the process of initializing each card with the correct information in the chunk of code below.</p>
+
+<p>An issue that I ran into while creating this program was the inclusion of srand in my program. Srand was a function in C++ that generated a random number, which was the main function for creating a random order for the cards. What was unique about this function was its usage of a seed value. It required a directive from time.h and stdlib.h, which took the current time and date as a runtime value for the random number it generated. Getting used to understanding how srand worked and how it created a random number was a challenge for me. But overall, I am proud of how the program runs, and I felt that I wrote the code in an efficient manner.</p>
+
+<p>Here is a snippet of code where I created the structure of the card, and initialized the deck of cards:</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">//structure definition</span>
+<span class="k">struct</span> <span class="nc">card</span><span class="p">{</span> 
+  <span class="kt">char</span> <span class="o">*</span><span class="n">rank</span><span class="p">;</span>    
+  <span class="kt">char</span> <span class="n">suit</span><span class="p">[</span><span class="n">MAX</span><span class="p">];</span>
+  <span class="kt">char</span> <span class="o">*</span><span class="n">color</span><span class="p">;</span>  
+<span class="p">};</span>
+<span class="k">typedef</span> <span class="k">struct</span> <span class="nc">card</span> <span class="n">Card</span><span class="p">;</span>
+
+<span class="kt">void</span> <span class="n">initialize</span><span class="p">(</span><span class="n">Card</span> <span class="n">deck</span><span class="p">[]){</span>
+  <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">MAX_CARDS</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">){</span>
+    <span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">rank</span> <span class="o">=</span> <span class="n">ranks</span><span class="p">[</span><span class="n">i</span><span class="o">%</span><span class="n">MAX_RANKS</span><span class="p">];</span>
+    <span class="n">strncpy</span><span class="p">(</span><span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">suit</span><span class="p">,</span> <span class="n">suits</span><span class="p">[</span><span class="n">i</span><span class="o">/</span><span class="n">MAX_RANKS</span><span class="p">],</span> <span class="n">MAX</span><span class="p">);</span>
+    <span class="k">if</span><span class="p">((</span><span class="n">strcmp</span><span class="p">(</span><span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">suit</span><span class="p">,</span><span class="n">suits</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span><span class="o">==</span><span class="mi">0</span><span class="p">)</span><span class="o">||</span><span class="p">(</span><span class="n">strcmp</span><span class="p">(</span><span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">suit</span><span class="p">,</span><span class="n">suits</span><span class="p">[</span><span class="mi">3</span><span class="p">])</span><span class="o">==</span><span class="mi">0</span><span class="p">)){</span><span class="c1">//if the card's suit is clubs or spades</span>
+	<span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">color</span> <span class="o">=</span> <span class="n">colors</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span><span class="c1">//make the cards color black</span>
+    <span class="p">}</span><span class="k">else</span><span class="p">{</span>
+	<span class="n">deck</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">color</span> <span class="o">=</span> <span class="n">colors</span><span class="p">[</span><span class="mi">1</span><span class="p">];</span><span class="c1">//make the cards color red</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+</code></pre></div></div>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
