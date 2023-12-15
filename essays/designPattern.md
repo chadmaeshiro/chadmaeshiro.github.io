@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "The Music of Design"
 # All dates must be YYYY-MM-DD format!
-date: 2023-05-09
-published: true
+date: 2023-11-20
+published: false
 labels:
   - Reflection
   - Design
