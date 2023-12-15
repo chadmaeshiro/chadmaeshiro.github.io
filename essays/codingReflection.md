@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Programming & It's Quirks"
+title: "Programming & Its Quirks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
