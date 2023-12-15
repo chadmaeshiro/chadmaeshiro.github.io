@@ -11,15 +11,15 @@ labels:
   - Programming
 ---
 
-Imagine you're a composer creating awesome music, but for computers! That's what making software is like, and design patterns are like your favorite music tricks to make everything sound just right.
+Software Engineering often has a common trope of being very logical and less creative and malleable. But this is often not the case, which can be seen through the usages of design patterns in Software Engineering. Like a mold used for baking, or a chord used in music, design patterns tackle a problem by modifying a simple foundation for a solution. We’ll explore in this essay how design patterns have altered the way that I thought about software engineering, and how it’s like ‘the music of design.’
 
-## What Are Design Patterns?
+## Design Patterns are Chords
 
-So, what are these design patterns? Think of them as cool moves that other smart music composers found out to solve common problems. You know when you're playing your guitar, and you use a sweet chord progression you learned from a song? That's a bit like using a design pattern in coding. In my Software Programming class this semester, I had to deal with modifying, evaluating, and creating complex structures of code. This can get awfully complicated for a programmer, so it is good to have a organized way of methodizing your understanding of the code you create. With that in mind, design patterns are particularly useful when it comes to crafting code that performs well and is understandable by your peers.
+Music is so wonderful because of its complexity of mixing different types of instruments, sounds, tempo, and other melodic differences. But music wouldn’t be so interesting if it was just one chord, right? But chords are so fundamental in music, that it would be boring if they didn’t exist at all. That's an analogy to how design patterns seem to work in the computer science realm. They are very important, especially for the efficiency of code, but also provide a solid foundation to build a solution. But what exactly are design patterns? Design patterns are solutions that are easily modified and reusable for problems within a given context. Algorithms themselves are a design pattern since they are all very situational, which makes them useful in only certain contexts. Sometimes using bubble sort is much more useful than merge sort, depending on what type of data set or structures you are trying to use it on. In my Software Programming class this semester, I had to deal with modifying, evaluating, and creating complex structures of code. This can get complicated for a programmer, so it is good to have an organized way of methodizing your understanding of the code you create. With that in mind, design patterns are beneficial when crafting code that performs well and is understandable by your peers.
 
 Design patterns help us make organized, easy-to-understand code. They're like the special notes that make a song catchy. Instead of figuring out everything from scratch, we use these patterns to make our code sound good and work well.
 
-## How I Used Them in My Code
+## Design Patterns are Key
 
 Alright, let me share a story about my coding adventures! Picture a band playing together, each member doing their thing. That's like a computer program where different parts need to work together. I used something called the Observer pattern, which is like having a band leader (or conductor) who tells everyone when to play.
 
