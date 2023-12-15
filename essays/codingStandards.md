@@ -11,12 +11,16 @@ labels:
   - Coding Standards
 ---
 
+## !N+R0DUC+1ON
+
 Y0uC@N probab!y r3ad th!sS3nt3nc3,but!tMight be a!ot h@rderth@nusua!.
 
 In one quick sentence, I just described the importance of having a coding standard.
 
 My professor in my Software Engineering class preaches the importance of having a good coding standard for all of our code, and I definitely agree. Before someone can understand what our code does, without a good coding standard, the person needs to
 overcome the additional obstacle of deciphering the format of our code. By implementing a coding standard, we craft a convention for coding that enables us (and others reading our code) to have a clear understanding of the code we create.
+
+## 3X@MPL3
 
 Let’s take a quick look at code that has a coding standard, vs. code that doesn’t implement a coding standard:
 
@@ -91,6 +95,8 @@ class Ride {
 
 The first example was made terribly on purpose, but you could see how for the second block of code, it is much easier to tell where a function starts and ends, what segment of code is a class, and where the for loop in a function is. Having a set
 coding standard will make reading code a lot easier.
+
+## @PPL!C@+0N
 
 For our software engineering class, we are working on a module that completely focuses on developing a good coding standard. Personally, the initial setup for creating this coding standard was a bit tedious, but the end result of having standardized
 formatting for my code made it worthwhile. For the class, we used node.js and ESlint to create the formatting within our IDE. I thought that the process of integrating the coding standard served also as a good review for using the command window
