@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "The Music of Design"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
